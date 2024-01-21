@@ -1,3 +1,4 @@
 # Final-Project---SOC
 Final project for the School of Code bootcamp 15.
-Please view the promo video here: https://www.youtube.com/watch?v=SyPIFCDmNHA
+<br>
+Please view the promo video <a href="https://www.youtube.com/watch?v=SyPIFCDmNHA" </a> here: 
