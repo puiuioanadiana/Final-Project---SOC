@@ -3,7 +3,7 @@ Final project for the School of Code bootcamp 15.
 <br>
 Link to the app https://nesst.vercel.app/
 <h4> Please view the promo <a href = "https://www.youtube.com/watch?v=SyPIFCDmNHA" </a> video  </h4> 
-  
+  <a href="https://github.com/tplatt92/nesst">code</a>
 <img width="800" alt="nesst" src="https://github.com/puiuioanadiana/Final-Project---SOC/assets/137444855/e3a88102-a23e-416a-8114-289d7a18fb54">
 <br>
 Here are some screenshots from the app
