@@ -1,4 +1,8 @@
 # Final-Project---SOC
+<br>
+Travellers, digital nomads, remote workers face isolation and lack of community in their mobile lifestyles. Current travel/accommodation options fail need for connection/belonging. Nesst seeks to fill this gap.
+We design an app that helps travellers, digital nomads to connect and book shared accommodation.
+<br>
 Final project for the School of Code bootcamp 15.
  <a href="https://github.com/tplatt92/nesst">code</a>
 <br>
